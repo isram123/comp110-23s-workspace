@@ -48,4 +48,3 @@ When you are first setting up your personal workspace repository, you will need 
 10. In the blank text box that appears, paste in the URL to your backup repository that you just copied. Press enter.
 11. When asked for "Remote name" type in: `backup`
 12. Follow the steps in the section above on how to "Backup your work."
-
