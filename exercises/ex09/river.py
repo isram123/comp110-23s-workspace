@@ -64,6 +64,4 @@ class River:
         # Visualize River
         self.view_river()
 
-    def one_river_week(self):
-        self.one_river_week = 7
     
